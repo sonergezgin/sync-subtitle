@@ -13,9 +13,7 @@ Subtitle Syncer is a lightweight Python tool designed to fix desynchronized subt
 
 To use the tool, simply run the following command:
 
-    ```
     python3 main.py <filename.srt> <time_shift_in_milliseconds> <direction>
-    ```
     
     Parameters
 
@@ -28,15 +26,11 @@ To use the tool, simply run the following command:
 
     If your subtitles are delayed by 2 seconds, you can fix them with:
         
-        ```
         python3 main.py my_movie.srt 2000 forward
-        ```
 
     Or, if they appear too early by 3 seconds:
 
-        ```
         python3 main.py my_movie.srt 3000 backward
-        ```
 
 ## Installation
 
