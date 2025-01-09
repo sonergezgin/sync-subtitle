@@ -42,10 +42,8 @@ To use the tool, simply run the following command:
 
     1.Clone this repository:
         
-        ```
         git clone https://github.com/yourusername/subtitle-syncer.git
         cd subtitle-syncer
-        ```
         
     2.Make sure the subtitle file exists in the path correctly
     3.Ensure you have Python 3 installed.
