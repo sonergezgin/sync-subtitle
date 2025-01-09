@@ -21,7 +21,7 @@ To use the tool, simply run the following command:
 
     <filename.srt>: The path to your subtitle file.
     <time_shift_in_milliseconds>: The amount of time (in milliseconds) to shift the subtitles.
-    <direction>: Specify forward to move the subtitles forward or backward to move them backward.
+    <direction>: Specify direction to move the subtitles forward or backward.
 
 
     Example
@@ -46,9 +46,10 @@ To use the tool, simply run the following command:
         git clone https://github.com/yourusername/subtitle-syncer.git
         cd subtitle-syncer
         ```
-
-    2.Ensure you have Python 3 installed.
-    3.Run the script using the provided instructions.
+        
+    2.Make sure the subtitle file exists in the path correctly
+    3.Ensure you have Python 3 installed.
+    4.Run the script using the provided instructions.
 
 ## How It Works
 
